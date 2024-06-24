@@ -1,2 +1,2 @@
 # Comparative Analysis of Statistical Learning Techniques in Tumor classification
-Final Submission for MATH2810L, using machine learning models such as logistic regression, linear discriminant analysis, and random forests to classify tumors as benign or malignant.![image](https://github.com/michaeljohndan/Comparative-Analysis-of-Statistical-Learning-Techniques-in-Tumor-Classification/assets/60673299/8721ccf7-60b7-48d0-9f2a-c0d78a238106)
+Final Submission for MATH2810L, using machine learning models such as logistic regression, linear discriminant analysis, and random forests to classify tumors as benign or malignant.
