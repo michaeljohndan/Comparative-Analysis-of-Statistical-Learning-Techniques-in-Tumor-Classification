@@ -1,5 +1,5 @@
 # Comparative Analysis of Statistical Learning Techniques in Tumor classification
-Final Submission for MATH2810L.
+## Final Submission for MATH2810L.
 
 Breast cancer is the most prevalent form of cancer among women world wide. Current research is focused on early detection of breast cancer as it is the most effective way to significantly improve survival rates. Recent advances in science and machines learning offer promising results in the evaluation of the stage of the tumor and its progression in order to determine the optimal treatment.
 
